@@ -1,0 +1,25 @@
+{
+  "name": "soulseek-rym-extension",
+  "version": "1.0.0",
+  "description": "A Chrome Extension to automate searching for an album in Soulseek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghstll/soulseek-rym-extension.git"
+  },
+  "keywords": [
+    "soulseek",
+    "chrome",
+    "extension",
+    "rym"
+  ],
+  "author": "Ghstl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghstll/soulseek-rym-extension/issues"
+  },
+  "homepage": "https://github.com/ghstll/soulseek-rym-extension#readme"
+}
