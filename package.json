@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ghstll/soulseek-rym-extension/issues"
   },
-  "homepage": "https://github.com/ghstll/soulseek-rym-extension#readme"
+  "homepage": "https://github.com/ghstll/soulseek-rym-extension#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
